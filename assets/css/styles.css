@@ -110,4 +110,7 @@
         box-sizing: border-box;
       }
     }
-    
+    .nav-links a.active{
+      color: #ff652f;
+      font-weight: bold;
+    }
